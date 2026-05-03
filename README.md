@@ -69,14 +69,15 @@ src/
 
 ## Prints mobile para demonstração
 
-### Home
-
-![Print 1](assets/prints/home.jpeg)
-
-### Cadastros
-
-![Print 2](assets/prints/apos-1-cadastro.jpeg)
-
-### Cadastros
-
-![Print 3](assets/prints/apos-2-cadastro.jpeg)
+<table>
+  <tr>
+    <td align="center"><strong>Home</strong></td>
+    <td align="center"><strong>1 cadastro</strong></td>
+    <td align="center"><strong>2 cadastros</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/prints/home.jpeg" alt="Home" width="220" /></td>
+    <td align="center"><img src="assets/prints/apos-1-cadastro.jpeg" alt="1 cadastro" width="220" /></td>
+    <td align="center"><img src="assets/prints/apos-2-cadastro.jpeg" alt="2 cadastros" width="220" /></td>
+  </tr>
+</table>
