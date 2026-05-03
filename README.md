@@ -72,8 +72,8 @@ src/
 <table>
   <tr>
     <td align="center"><strong>Home</strong></td>
-    <td align="center"><strong>1 cadastro</strong></td>
-    <td align="center"><strong>2 cadastros</strong></td>
+    <td align="center"><strong>Adiciona "usuário"</strong></td>
+    <td align="center"><strong>Adiciona segundo "usuário"</strong></td>
   </tr>
   <tr>
     <td align="center"><img src="assets/prints/home.jpeg" alt="Home" width="220" /></td>
