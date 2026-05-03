@@ -164,13 +164,16 @@ const styles = StyleSheet.create({
     backgroundColor: "#FFFFFF",
   },
   titulo: {
-    fontSize: 22,
+    fontSize: 28,
     fontWeight: "bold",
     color: "#FF7A00",
-    marginBottom: 16,
+    marginBottom: 8,
+    marginTop: 20,
+    textAlign: "center",
   },
   subtitulo: {
     marginTop: 12,
+    marginBottom: 24,
     fontSize: 16,
     color: "#333333",
   },
